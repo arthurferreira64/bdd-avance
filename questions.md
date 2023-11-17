@@ -32,10 +32,10 @@ part_4_1 : Oui
 
 part_4_2 : Oui
 
-part_4_3 : Non
+part_4_3 : Oui
 
-part_5_1 : Non
+part_5_1 : Oui
 
-part_5_2 : Non
+part_5_2 : Oui
 
-part_5_3 : Non
+part_5_3 : Oui
