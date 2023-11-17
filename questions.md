@@ -1,4 +1,4 @@
-# État des Questions du Projet de Bdd app_auth
+# L'état des questions dans le projet de la base de données "app_auth" est le suivant :
 
 L'état de chaque question traitée dans le projet est résumé dans ce document.
 
