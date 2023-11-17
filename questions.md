@@ -1,0 +1,17 @@
+part_I_1_a : Oui
+
+part_I_1_b : Oui
+
+part_I_2_a : Oui
+
+part_I_2_b : Oui
+
+part_I_2_c : Oui
+
+part_I_3_a : Oui
+
+part_I_3_b : Oui
+
+part_I_3_b _view: Oui
+
+part_I_3_c : Oui
