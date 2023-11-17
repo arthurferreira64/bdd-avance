@@ -10,7 +10,7 @@ Le projet est divisé en plusieurs parties :
 
 - [**questions.md**](./questions.md) : Liste des questions à traiter dans le projet.
 - [**Partie I : Création de la Base de Données**](#partie-i--création-de-la-base-de-données): Création de la base de données `app_auth` et de ses tables principales.
-- [**Partie II : Compréhension des Données**](#partie-ii--compréhension-des-données): Exploration approfondie des données et création de vues pour analyser les informations des abonnements.
+- [**Partie II : Compréhension des Données**](#partie-ii--compréhension-des-données): Exploration des données et création de vues pour analyser les informations des abonnements.
 - [**Partie III : Comparaison de Requêtes**](#partie-iii--comparaison-de-requêtes): Comparaison de performances des requêtes SQL avant et après l'indexation.
 - [**Partie IV : Monitoring**](#partie-iv--monitoring): Mise en place de triggers pour le suivi et l'historisation des données.
 - [**Partie V : Considérations Applicatives**](#partie-v--considérations-applicatives): Intégration avec MongoDB et création de fonctions pour la migration des données.
